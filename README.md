@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at **[My github Repositories](https://github.com/Hamdysaad20?tab=repositories)**
 
-- 📫 How to reach me **hamdysaad.biz@gmail.com
+- 📫 How to reach me : **hamdysaad.biz@gmail.com**
 
 
 
