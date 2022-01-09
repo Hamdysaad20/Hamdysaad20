@@ -1,6 +1,9 @@
 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/xjnJXNB_d.webp?maxwidth=760&fidelity=grand" height="175px"/></a>
+<div align="center" >
+<a   href="#"><img width="230" height="230" src="https://i.imgur.com/0QB2HZU.png" height="10px"/></a>
+
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamdy</h1>
 <h3 align="center">I'm an eager Full Stack Developer from Egypt.</h3>
@@ -17,7 +20,8 @@
 
 - 👨‍💻 All of my projects are available at **[My github Repositories](https://github.com/Hamdysaad20?tab=repositories)**
 
-- 📫 How to reach me **hamdysaad.biz@gmail.com**
+- 📫 How to reach me **hamdysaad.biz@gmail.com
+
 
 
 ## 🚀 Languages and Tools:
@@ -27,7 +31,8 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> ![148692426-a2cedfdf-abdf-489d-9523-efc1cedf67db](https://user-images.githubusercontent.com/73494683/148692438-dc2deead-e93e-4bba-9348-417398443bc3.png)
+
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
