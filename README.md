@@ -1,6 +1,6 @@
 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/xjnJXNB_d.webp?maxwidth=760&fidelity=grand" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hamdy</h1>
 <h3 align="center">I'm an eager Full Stack Developer from Egypt.</h3>
