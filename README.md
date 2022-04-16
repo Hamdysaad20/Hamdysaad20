@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - ⚡ working on divzoonCommunity on my free time
 
 - 👨‍💻 All of my projects are available at **[My github Repositories](https://github.com/Hamdysaad20?tab=repositories)**
